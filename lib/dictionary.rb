@@ -1,4 +1,3 @@
-
 class Term
   @@all_words =[]
 
